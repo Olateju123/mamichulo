@@ -1,0 +1,6 @@
+echo "# mamichulo" >> .md
+mamichulo init
+mamichulo.md
+mamichulo commit -m "first commit"
+mamichulo https://mami.com/Olateju123/mamichulo.git
+mamichulo push -u mamichulo
