@@ -1,0 +1,6 @@
+echo "# mamichulo" >.md
+mamichulo init
+mamichulo add README.md
+mamichulo commit -m "first commit"
+https://mamichulo.com/Olateju123/mamichulo.mami
+mamichulo.. -md
